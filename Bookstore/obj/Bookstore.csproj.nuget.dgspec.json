@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kevin/Desktop/untitled folder/Mission8-main/Bookstore/Bookstore.csproj": {}
+    "/Users/kevin/Desktop/untitled folder/Mission8-main/Mission9/Bookstore/Bookstore.csproj": {}
   },
   "projects": {
-    "/Users/kevin/Desktop/untitled folder/Mission8-main/Bookstore/Bookstore.csproj": {
+    "/Users/kevin/Desktop/untitled folder/Mission8-main/Mission9/Bookstore/Bookstore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kevin/Desktop/untitled folder/Mission8-main/Bookstore/Bookstore.csproj",
+        "projectUniqueName": "/Users/kevin/Desktop/untitled folder/Mission8-main/Mission9/Bookstore/Bookstore.csproj",
         "projectName": "Bookstore",
-        "projectPath": "/Users/kevin/Desktop/untitled folder/Mission8-main/Bookstore/Bookstore.csproj",
+        "projectPath": "/Users/kevin/Desktop/untitled folder/Mission8-main/Mission9/Bookstore/Bookstore.csproj",
         "packagesPath": "/Users/kevin/.nuget/packages/",
-        "outputPath": "/Users/kevin/Desktop/untitled folder/Mission8-main/Bookstore/obj/",
+        "outputPath": "/Users/kevin/Desktop/untitled folder/Mission8-main/Mission9/Bookstore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kevin/.config/NuGet/NuGet.Config"
