@@ -7,6 +7,7 @@ namespace Bookstore.Components
 {
     public class TypesViewComponent : ViewComponent
     {
+
         private IBooksRepository repo { get; set; }
 
         public TypesViewComponent(IBooksRepository temp)
