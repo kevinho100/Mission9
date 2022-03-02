@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{B643A7A8-B9E5-4EF6-87FB-BFEF63E68A66}|Default">
+  <MonoDevelop.Ide.ItemProperties.Bookstore PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bookstore/Models/EFPurchaseRepository.cs">
+    <Files>
+      <File FileName="Bookstore/Pages/Buy.cshtml" Line="31" Column="86" />
+      <File FileName="Bookstore/Views/Checkout.cshtml" Line="54" Column="9" />
+      <File FileName="Bookstore/Controllers/PurchaseController.cs" Line="16" Column="1" />
+      <File FileName="Bookstore/Models/IPurchaseRepository.cs" Line="10" Column="46" />
+      <File FileName="Bookstore/Models/EFPurchaseRepository.cs" Line="4" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bookstore" expanded="True">
+            <Node name="Bookstore" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="EFPurchaseRepository.cs" selected="True" />
+              </Node>
+              <Node name="Pages" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Purchase" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

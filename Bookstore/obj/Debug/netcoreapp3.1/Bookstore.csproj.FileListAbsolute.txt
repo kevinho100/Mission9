@@ -393,3 +393,4 @@
 /Users/kevin/Desktop/untitled folder/Mission8-main/Mission9/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.dll
 /Users/kevin/Desktop/untitled folder/Mission8-main/Mission9/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.pdb
 /Users/kevin/Desktop/untitled folder/Mission8-main/Mission9/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.genruntimeconfig.cache
+/Users/kevin/Desktop/untitled folder/Mission8-main/Mission9/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Purchase/Checkout.cshtml.g.cs
